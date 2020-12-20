@@ -7,8 +7,8 @@ if n == 1:
 elif n == 2:
   print(f2)
 else :
-print(f1)
-print(f2)
+  print(f1)
+  print(f2)
 i = 3 
 while i <=n :
   f3 = f1 + f2
