@@ -9,8 +9,8 @@ elif n == 2:
 else :
   print(f1)
   print(f2)
-i = 3 
-while i <=n :
+  i = 3 
+  while i <=n :
   f3 = f1 + f2
   print(f3," ")
   f1 =f2 
