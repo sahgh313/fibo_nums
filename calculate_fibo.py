@@ -17,6 +17,7 @@ else :
   f2 = f3
   i = i +1
   
-
-
+#fibonachi function in one line
+fib4 = lambda x: x if x < 2 else fib4(x-1) + fib4(x-2) 
+# print(list(map(fib4,range(1,10))))
 
